@@ -1,0 +1,113 @@
+Skill,Category
+Python,Programming
+Java,Programming
+C,Programming
+C++,Programming
+C#,Programming
+R,Programming
+Go,Programming
+Rust,Programming
+Kotlin,Programming
+Swift,Programming
+PHP,Programming
+JavaScript,Programming
+TypeScript,Programming
+HTML,Web Development
+CSS,Web Development
+Bootstrap,Web Development
+Tailwind CSS,Web Development
+React,Web Development
+React.js,Web Development
+Angular,Web Development
+Vue.js,Web Development
+Next.js,Web Development
+Node.js,Web Development
+Express.js,Web Development
+Flask,Backend
+Django,Backend
+FastAPI,Backend
+Spring Boot,Backend
+ASP.NET,Backend
+REST API,Backend
+GraphQL,Backend
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+SQLite,Database
+Oracle,Database
+MongoDB,Database
+Redis,Database
+Firebase,Database
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Science
+Seaborn,Data Science
+Plotly,Data Science
+Scikit-learn,Machine Learning
+Machine Learning,Machine Learning
+Deep Learning,Machine Learning
+TensorFlow,Machine Learning
+Keras,Machine Learning
+PyTorch,Machine Learning
+XGBoost,Machine Learning
+LightGBM,Machine Learning
+OpenCV,Computer Vision
+YOLO,Computer Vision
+CNN,Computer Vision
+Image Processing,Computer Vision
+NLP,Artificial Intelligence
+Transformers,Artificial Intelligence
+Hugging Face,Artificial Intelligence
+spaCy,Artificial Intelligence
+NLTK,Artificial Intelligence
+LLM,Artificial Intelligence
+LangChain,Artificial Intelligence
+RAG,Artificial Intelligence
+Prompt Engineering,Artificial Intelligence
+Git,Tools
+GitHub,Tools
+Docker,DevOps
+Kubernetes,DevOps
+Jenkins,DevOps
+GitHub Actions,DevOps
+CI/CD,DevOps
+Linux,Operating System
+Windows,Operating System
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+GCP,Cloud
+EC2,Cloud
+S3,Cloud
+IAM,Cloud
+Power BI,Business Intelligence
+Tableau,Business Intelligence
+Excel,Business Intelligence
+Streamlit,Framework
+Jupyter Notebook,Framework
+VS Code,Tools
+PyCharm,Tools
+Google Colab,Tools
+API,Backend
+JSON,Backend
+XML,Backend
+OOP,Programming
+Data Structures,Programming
+Algorithms,Programming
+Object Detection,Computer Vision
+Computer Vision,Computer Vision
+Statistics,Mathematics
+Probability,Mathematics
+Linear Algebra,Mathematics
+Calculus,Mathematics
+Feature Engineering,Machine Learning
+Model Deployment,Machine Learning
+MLflow,Machine Learning
+Apache Spark,Big Data
+Hadoop,Big Data
+Kafka,Big Data
+Data Analysis,Data Science
+Data Visualization,Data Science
+ETL,Data Engineering
+Data Warehousing,Data Engineering
+Airflow,Data Engineering

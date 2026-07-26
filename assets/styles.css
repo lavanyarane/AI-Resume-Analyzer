@@ -1,0 +1,214 @@
+/* ===========================
+   AI Resume Analyzer Theme
+=========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html,
+body,
+[class*="css"] {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Background */
+
+.stApp {
+    background: linear-gradient(135deg,#0F172A,#111827,#1E293B);
+}
+
+/* Hide Streamlit menu */
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+/* Titles */
+
+h1 {
+    color: white;
+    font-weight: 700;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+/* Glassmorphism */
+
+.glass {
+
+    background: rgba(255,255,255,0.08);
+
+    backdrop-filter: blur(15px);
+
+    border-radius:20px;
+
+    padding:25px;
+
+    border:1px solid rgba(255,255,255,0.15);
+
+    box-shadow:0 8px 32px rgba(0,0,0,.35);
+
+    margin-bottom:20px;
+
+}
+
+/* KPI Cards */
+
+.metric-card{
+
+background:rgba(255,255,255,.09);
+
+border-radius:18px;
+
+padding:20px;
+
+text-align:center;
+
+border:1px solid rgba(255,255,255,.15);
+
+transition:.4s;
+
+}
+
+.metric-card:hover{
+
+transform:translateY(-5px);
+
+box-shadow:0 0 30px rgba(0,255,255,.25);
+
+}
+
+/* Skill Pills */
+
+.skill{
+
+display:inline-block;
+
+padding:8px 18px;
+
+margin:6px;
+
+border-radius:30px;
+
+background:#2563EB;
+
+color:white;
+
+font-size:14px;
+
+font-weight:600;
+
+}
+
+/* Recommendation Cards */
+
+.role{
+
+background:rgba(255,255,255,.08);
+
+padding:20px;
+
+border-radius:20px;
+
+margin-bottom:15px;
+
+transition:.4s;
+
+}
+
+.role:hover{
+
+transform:scale(1.03);
+
+background:#2563EB;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+background:#2563EB;
+
+color:white;
+
+border:none;
+
+border-radius:12px;
+
+padding:10px 18px;
+
+font-weight:600;
+
+}
+
+.stDownloadButton>button{
+
+background:#10B981;
+
+color:white;
+
+border-radius:12px;
+
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+
+background:#111827;
+
+}
+
+/* Upload */
+
+[data-testid="stFileUploader"]{
+
+background:rgba(255,255,255,.05);
+
+padding:15px;
+
+border-radius:15px;
+
+}
+
+/* Animations */
+
+.fade{
+
+animation:fadeIn .7s ease;
+
+}
+
+@keyframes fadeIn{
+
+from{
+
+opacity:0;
+
+transform:translateY(20px);
+
+}
+
+to{
+
+opacity:1;
+
+transform:translateY(0px);
+
+}
+
+}
